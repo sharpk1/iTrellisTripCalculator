@@ -1,0 +1,18 @@
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe.config
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\bin\Debug\TripCalculator.pdb
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csprojResolveAssemblyReference.cache
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.Form1.resources
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.Properties.Resources.resources
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.GenerateResource.Cache
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.exe
+c:\users\kush\documents\visual studio 2013\Projects\TripCalculator\TripCalculator\obj\Debug\TripCalculator.pdb
+G:\TripCalculatorv2\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe.config
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.exe
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.pdb
+G:\TripCalculatorv2\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe
+G:\TripCalculatorv2\TripCalculator\TripCalculator\bin\Debug\TripCalculator.pdb
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csprojResolveAssemblyReference.cache
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.Form1.resources
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.Properties.Resources.resources
+G:\TripCalculatorv2\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.GenerateResource.Cache

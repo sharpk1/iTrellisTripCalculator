@@ -1,0 +1,7 @@
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\bin\Debug\TripCalculator.exe
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\bin\Debug\TripCalculator.pdb
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+G:\TripCalculatorv2\TripCalculator\Calculator.Test\obj\Debug\Calculator.Test.pdb
