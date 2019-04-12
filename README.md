@@ -17,7 +17,7 @@ Simple application that will calculate splits between three people
 
 
 ## III. Instructions/Extra Notes
-1. Download the Project
+1. Download and Extract Project
 2. Open the .sln file in Visual Studio (preferably 2013 or later)
 3. The tabs for Form1.cs, Form1.cs (Design), and CalculatorTests.cs should be already open
 4. If Form1.cs does not open, select View Code to access it:
